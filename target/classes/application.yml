@@ -1,0 +1,3 @@
+
+logging.level.com.example.htest: debug
+server.port: 9997
